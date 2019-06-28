@@ -18,7 +18,6 @@ allprojects {
         google()
         jcenter()
         mavenCentral()
-        maven { url 'http://118.31.10.136:8081/nexus/content/repositories/releases/' }
         maven { url "https://jitpack.io" }
         // 阿里云仓库地址
         maven {
