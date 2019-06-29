@@ -1,1 +1,1 @@
-include ':app', ':magicDbLib', ':magicFaceLib', ':tensorflowLib'
+include ':app', ':magicDbLib', ':tensorflowLib'

@@ -10,7 +10,6 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/magicDbLib" />
-            <option value="$PROJECT_DIR$/magicFaceLib" />
             <option value="$PROJECT_DIR$/tensorflowLib" />
           </set>
         </option>
